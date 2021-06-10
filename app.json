@@ -1,0 +1,31 @@
+{
+    "id": "916cdc55-e14f-462e-82c9-e78d3f5db3af",
+    "name": "GRC - Bridge",
+    "publisher": "F1 Consulting Services",
+    "description": "App per scambio dati tra BC e macchine",
+    "version": "1.0.0.0",
+    "privacyStatement": "",
+    "EULA": "",
+    "help": "",
+    "url": "https://www.f1consultingservices.it",
+    "dependencies": [
+        {
+            "id": "c7cd1f93-88df-4186-910c-1de02442c24f",
+            "name": "GRC",
+            "publisher": "F1 Consulting Services",
+            "version": "1.0.0.26"
+        }
+    ],
+    "screenshots": [],
+    "platform": "1.0.0.0",
+    "application": "18.0.0.0",
+    "idRanges": [
+      {
+        "from": 50150,
+        "to": 50200
+      }
+    ],
+    "contextSensitiveHelpUrl": "https://GRC.com/help/",
+    "showMyCode": true,
+    "runtime": "7.0"
+  }
